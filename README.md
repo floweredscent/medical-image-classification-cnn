@@ -1,4 +1,4 @@
-# medical-image-classification-cnn
+# Medical Image Classification Using Convolutional Neural Network (CNN)
 #### 📌 Goal
 
 The goal of this project was to develop an automated system for medical image classification to enable diagnosis of periodontal disease. Manual classification of medical images is time-consuming, making it inefficient in healthcare environments with heavy workloads. This project  explored the use of Convolutional Neural Networks (CNNs) to improve classification efficiency and accuracy.
